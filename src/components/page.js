@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Pokemon from '../components/pokemon'
 import Search from '../components/search'
-
+//commit
 class Page extends Component {
   componentDidMount() {
     this.props.getPokemons()
